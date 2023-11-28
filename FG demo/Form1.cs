@@ -168,7 +168,7 @@ namespace FG_demo
             {
                 if (playerX > 0)
                 {
-                    playerX -= 6;//35:20 speed
+                    playerX -= 8;//35:20 speed
                 }
 
                 if (backgroundPosition < 0 && playerX < 100)
